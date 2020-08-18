@@ -10,3 +10,5 @@ pip install sqlite3
 pip install tkinter
 
 python dress_yourself.py
+
+Tested only on windows, you might have problems on linux
