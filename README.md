@@ -12,3 +12,6 @@ pip install tkinter
 python dress_yourself.py
 
 Tested only on windows, you might have problems on linux
+
+#Other platforms
+There is also a telegram bot: @DressYourselfBot
